@@ -1,8 +1,4 @@
-.masthead {
- height: 100vh;
- min-height: 500px;
- background-image: url("trinitybanner.jpg");
- background-size: auto;
- background-position: center;
- background-repeat: no-repeat;
+.banner {
+    width: 100%;
+    height: auto;
 }
