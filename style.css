@@ -26,7 +26,7 @@
     font-size: 17px;
   }
 
-.h1 {
-    font-family: 'Brush Script MT';
-    color: blue;
+.container {
+    color: #ffcd00;
+    font-family: "Times New Roman", Times, serif;
 }
